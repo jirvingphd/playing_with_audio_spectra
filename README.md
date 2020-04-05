@@ -37,41 +37,41 @@ from fsds_100719.imports import *
 
 
 <style  type="text/css" >
-</style><table id="T_4b216a0c_7771_11ea_9036_acde48001122" ><caption>Loaded Packages and Handles</caption><thead>    <tr>        <th class="col_heading level0 col0" >Handle</th>        <th class="col_heading level0 col1" >Package</th>        <th class="col_heading level0 col2" >Description</th>    </tr></thead><tbody>
+</style><table id="T_b866c0b4_7773_11ea_ad44_acde48001122" ><caption>Loaded Packages and Handles</caption><thead>    <tr>        <th class="col_heading level0 col0" >Handle</th>        <th class="col_heading level0 col1" >Package</th>        <th class="col_heading level0 col2" >Description</th>    </tr></thead><tbody>
                 <tr>
-                                <td id="T_4b216a0c_7771_11ea_9036_acde48001122row0_col0" class="data row0 col0" >dp</td>
-                        <td id="T_4b216a0c_7771_11ea_9036_acde48001122row0_col1" class="data row0 col1" >IPython.display</td>
-                        <td id="T_4b216a0c_7771_11ea_9036_acde48001122row0_col2" class="data row0 col2" >Display modules with helpful display and clearing commands.</td>
+                                <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row0_col0" class="data row0 col0" >dp</td>
+                        <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row0_col1" class="data row0 col1" >IPython.display</td>
+                        <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row0_col2" class="data row0 col2" >Display modules with helpful display and clearing commands.</td>
             </tr>
             <tr>
-                                <td id="T_4b216a0c_7771_11ea_9036_acde48001122row1_col0" class="data row1 col0" >fs</td>
-                        <td id="T_4b216a0c_7771_11ea_9036_acde48001122row1_col1" class="data row1 col1" >fsds_100719</td>
-                        <td id="T_4b216a0c_7771_11ea_9036_acde48001122row1_col2" class="data row1 col2" >Custom data science bootcamp student package</td>
+                                <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row1_col0" class="data row1 col0" >fs</td>
+                        <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row1_col1" class="data row1 col1" >fsds_100719</td>
+                        <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row1_col2" class="data row1 col2" >Custom data science bootcamp student package</td>
             </tr>
             <tr>
-                                <td id="T_4b216a0c_7771_11ea_9036_acde48001122row2_col0" class="data row2 col0" >mpl</td>
-                        <td id="T_4b216a0c_7771_11ea_9036_acde48001122row2_col1" class="data row2 col1" >matplotlib</td>
-                        <td id="T_4b216a0c_7771_11ea_9036_acde48001122row2_col2" class="data row2 col2" >Matplotlib's base OOP module with formatting artists</td>
+                                <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row2_col0" class="data row2 col0" >mpl</td>
+                        <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row2_col1" class="data row2 col1" >matplotlib</td>
+                        <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row2_col2" class="data row2 col2" >Matplotlib's base OOP module with formatting artists</td>
             </tr>
             <tr>
-                                <td id="T_4b216a0c_7771_11ea_9036_acde48001122row3_col0" class="data row3 col0" >plt</td>
-                        <td id="T_4b216a0c_7771_11ea_9036_acde48001122row3_col1" class="data row3 col1" >matplotlib.pyplot</td>
-                        <td id="T_4b216a0c_7771_11ea_9036_acde48001122row3_col2" class="data row3 col2" >Matplotlib's matlab-like plotting module</td>
+                                <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row3_col0" class="data row3 col0" >plt</td>
+                        <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row3_col1" class="data row3 col1" >matplotlib.pyplot</td>
+                        <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row3_col2" class="data row3 col2" >Matplotlib's matlab-like plotting module</td>
             </tr>
             <tr>
-                                <td id="T_4b216a0c_7771_11ea_9036_acde48001122row4_col0" class="data row4 col0" >np</td>
-                        <td id="T_4b216a0c_7771_11ea_9036_acde48001122row4_col1" class="data row4 col1" >numpy</td>
-                        <td id="T_4b216a0c_7771_11ea_9036_acde48001122row4_col2" class="data row4 col2" >scientific computing with Python</td>
+                                <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row4_col0" class="data row4 col0" >np</td>
+                        <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row4_col1" class="data row4 col1" >numpy</td>
+                        <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row4_col2" class="data row4 col2" >scientific computing with Python</td>
             </tr>
             <tr>
-                                <td id="T_4b216a0c_7771_11ea_9036_acde48001122row5_col0" class="data row5 col0" >pd</td>
-                        <td id="T_4b216a0c_7771_11ea_9036_acde48001122row5_col1" class="data row5 col1" >pandas</td>
-                        <td id="T_4b216a0c_7771_11ea_9036_acde48001122row5_col2" class="data row5 col2" >High performance data structures and tools</td>
+                                <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row5_col0" class="data row5 col0" >pd</td>
+                        <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row5_col1" class="data row5 col1" >pandas</td>
+                        <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row5_col2" class="data row5 col2" >High performance data structures and tools</td>
             </tr>
             <tr>
-                                <td id="T_4b216a0c_7771_11ea_9036_acde48001122row6_col0" class="data row6 col0" >sns</td>
-                        <td id="T_4b216a0c_7771_11ea_9036_acde48001122row6_col1" class="data row6 col1" >seaborn</td>
-                        <td id="T_4b216a0c_7771_11ea_9036_acde48001122row6_col2" class="data row6 col2" >High-level data visualization library based on matplotlib</td>
+                                <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row6_col0" class="data row6 col0" >sns</td>
+                        <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row6_col1" class="data row6 col1" >seaborn</td>
+                        <td id="T_b866c0b4_7773_11ea_ad44_acde48001122row6_col2" class="data row6 col2" >High-level data visualization library based on matplotlib</td>
             </tr>
     </tbody></table>
 
@@ -301,7 +301,7 @@ librosa.display.waveplot(data,sr=sample_rate, max_points=50000.0,x_axis='time')
 
 
 
-    <matplotlib.collections.PolyCollection at 0x1c2d4ca7b8>
+    <matplotlib.collections.PolyCollection at 0x1c2a6ec8d0>
 
 
 
@@ -353,6 +353,12 @@ ax.set_xlim(0,3)
 ax.set_ylim(0,1000)
 ```
 
+    /anaconda3/envs/learn-env/lib/python3.6/site-packages/matplotlib/axes/_axes.py:7581: RuntimeWarning:
+    
+    divide by zero encountered in log10
+    
+
+
 
 
 
@@ -361,7 +367,7 @@ ax.set_ylim(0,1000)
 
 
 
-![png](output_20_1.png)
+![png](output_20_2.png)
 
 
 
@@ -377,7 +383,7 @@ plt.colorbar()
 
 
 
-    <matplotlib.colorbar.Colorbar at 0x1c2a8a3eb8>
+    <matplotlib.colorbar.Colorbar at 0x1c29e2ed68>
 
 
 
@@ -800,7 +806,7 @@ plt.plot(sec,data)
 
 
 
-    [<matplotlib.lines.Line2D at 0x1c32372ac8>]
+    [<matplotlib.lines.Line2D at 0x1c2c1ea898>]
 
 
 
@@ -837,7 +843,7 @@ plt.imshow(Sxx,cmap='plasma')#,vmin=Sxx.min(),vmax=Sxx.max())
 
 
 
-    <matplotlib.image.AxesImage at 0x1c5acd77f0>
+    <matplotlib.image.AxesImage at 0x1c2ac504e0>
 
 
 
